@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Better Weapon Preview",
+	"Description": "The mod adds a zoom (with a mousewheel) to the menu + the ability to move the weapon by holding right click so you can see your weapon to the its fullest.",
+	"Category": "Modding",
+	"CreatedBy": "Luffy",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "PDML",
+			"Enabled": true,
+			"SemVersion": "EA_0.1.0"
+		}
+	],
+	"SemVersion": "1.0.0",
+	"RequiredOnRemote": false
+}
